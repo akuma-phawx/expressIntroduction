@@ -26,5 +26,5 @@ app.get("/dogs", (req, res) => {
 // Path: /  => 'Willkommen'
 app.get("/", (req, res) => {
   log("Home request");
-  res.send("Willkommen!");
+  res.send("Willkommenaaaassssaaaaa!");
 });
